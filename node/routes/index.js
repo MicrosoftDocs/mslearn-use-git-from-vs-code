@@ -6,5 +6,6 @@ router.get('/', function(req, res, next) {
   res.render('index', { title: 'Hello Git!' });
 });
 
+/* test commit */
 
 module.exports = router;

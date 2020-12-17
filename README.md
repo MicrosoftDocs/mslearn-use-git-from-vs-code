@@ -1,5 +1,5 @@
 ---
-# bacon good
+# bacon gooder
 page_type: sample
 languages:
 - csharp

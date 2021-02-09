@@ -20,7 +20,7 @@ Taxonomies for products and languages: https://review.docs.microsoft.com/new-hop
 
 Give a short description for your sample here. What does it do and why is it important?
 
-## Contents
+## Contents --
 
 Outline the file contents of the repository. It helps users navigate the codebase, build configuration and any related assets.
 

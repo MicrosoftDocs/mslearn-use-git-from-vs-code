@@ -7,7 +7,7 @@ products:
 description: "Add 150 character max description"
 urlFragment: "update-this-to-unique-url-stub"
 ---
-Updated it for Demo
+Updated it for Demo 2
 # Official Microsoft Sample
 
 <!-- 

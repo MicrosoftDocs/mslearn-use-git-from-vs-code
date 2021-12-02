@@ -1,3 +1,7 @@
+<!-- 
+ceci est un test de modification par julien sur la branche update-response
+-->
+
 ---
 page_type: sample
 languages:

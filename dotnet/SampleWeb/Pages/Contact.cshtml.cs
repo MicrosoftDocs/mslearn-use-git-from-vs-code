@@ -12,7 +12,7 @@ namespace SampleWeb.Pages
 
         public void OnGet()
         {
-            Message = "Your contact page.";
+            Message = "Your contact pagina.";
         }
     }
 }

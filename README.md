@@ -1,6 +1,6 @@
 ---
 page_type: sample
-languages:
+languages: EN-US
 - csharp
 products:
 - dotnet
